@@ -1,0 +1,11 @@
+chapter_*
+.ipynb_checkpoints/
+d2l.bib
+d2l/__pycache__/
+d2l/jax.py
+d2l/mxnet.py
+d2l/tensorflow.py
+img/
+index.ipynb
+setup.py
+static/
