@@ -1,0 +1,21 @@
+
+Loss.
+    Use relative price difference (rmse) loss hence not directly
+    comparable to v0 v1 loss (mse)
+Features used.
+    'Total interior livable area',
+    'Tax assessed value',
+    'Listed Price',
+    'City',
+    'State',
+Train data set.
+    1.0 frac train.csv used in training.
+    0.8 frac training data used for training, 0.2 for validation
+    1.0 frac test.csv used in submission.
+Loss.
+    batch_size 512
+    learning rate 0.008
+    epochs 5
+    epoch 4, train loss 0.000840, test loss 0.000831
+Public score. 0.75984
+Private score. 0.76469

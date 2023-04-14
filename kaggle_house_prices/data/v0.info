@@ -1,0 +1,13 @@
+
+Features used.
+    'Total interior livable area',
+    'Tax assessed value',
+    'Listed Price',
+    'City',
+    'State',
+Train data set.
+    0.1 frac train.csv used in training.
+    0.8 frac training data used for training, 0.2 for validation
+    1.0 frac test.csv used in submission.
+Public score. 0.54338
+Private score. 0.53771
